@@ -9,3 +9,4 @@ A 2D Point & Shoot game, buil in Javascript that features:
 - https://www.youtube.com/watch?v=GFO_txvwK_c&t=10181s&ab_channel=freeCodeCamp.org
 - The Spritesheets were provided by https://bevouliin.com/ (free for educational use)
 - In game sound designer Michel from http://cubeengine.com/
+- Project is for educational purpose only (Non-commercial).
